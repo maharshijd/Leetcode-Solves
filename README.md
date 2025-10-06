@@ -79,6 +79,8 @@ If you have suggestions or alternative implementations, feel free to **submit a 
 
 * **LinkedIn:** [Maharshi Dindoliwala](https://www.linkedin.com/in/maharshi-jd)
 * **GitHub:** [maharshijd](https://github.com/maharshijd)
+* **Leetcode:** [maharshi_jd](https://leetcode.com/u/maharshi_jd/)
+* **Hackerrank:** [maharshi1731](https://www.hackerrank.com/profile/maharshi1731)
 
 
 Would you like me to elevate this further with **GitHub badges** (for LeetCode, profile views, commits, etc.) and **a minimalist banner header** for a more polished professional presentation?
