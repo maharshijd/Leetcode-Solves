@@ -3,14 +3,10 @@ public:
     vector<vector<char>> updateBoard(vector<vector<char>>& board, vector<int>& click) {
         int m = board.size(), n = board[0].size();
         int x = click[0], y = click[1];
-        
-        // If clicked on mine, game over
         if (board[x][y] == 'M') {
             board[x][y] = 'X';
             return board;
         }
-        
-        // Start DFS from clicked position
         dfs(board, x, y);
         return board;
     }
@@ -18,8 +14,6 @@ public:
 private:
     void dfs(vector<vector<char>>& board, int x, int y) {
         int m = board.size(), n = board[0].size();
-        
-        // Check boundaries and if cell is unrevealed empty square
         if (x < 0 || x >= m || y < 0 || y >= n || board[x][y] != 'E') {
             return;
         }
