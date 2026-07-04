@@ -107,6 +107,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Array
 |  |
 | ------- |
+| [0941-valid-mountain-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0941-valid-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
