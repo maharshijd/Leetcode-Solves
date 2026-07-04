@@ -121,4 +121,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
+## Database
+|  |
+| ------- |
+| [1789-primary-department-for-each-employee](https://github.com/maharshijd/Leetcode-Solves/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
