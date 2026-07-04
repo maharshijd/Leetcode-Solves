@@ -84,3 +84,23 @@ If you have suggestions or alternative implementations, feel free to **submit a 
 
 
 Would you like me to elevate this further with **GitHub badges** (for LeetCode, profile views, commits, etc.) and **a minimalist banner header** for a more polished professional presentation?
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0099-recover-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0099-recover-binary-search-tree) |
+<!---LeetCode Topics End-->
