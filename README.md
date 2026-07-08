@@ -126,6 +126,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/maharshijd/Leetcode-Solves/tree/master/0610-triangle-judgement) |
 | [1789-primary-department-for-each-employee](https://github.com/maharshijd/Leetcode-Solves/tree/master/1789-primary-department-for-each-employee) |
 ## Math
 |  |
