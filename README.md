@@ -133,6 +133,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/2769-find-the-maximum-achievable-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +146,12 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
+## String
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
