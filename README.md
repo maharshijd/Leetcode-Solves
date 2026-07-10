@@ -92,11 +92,13 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0099-recover-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0538-convert-bst-to-greater-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0099-recover-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0538-convert-bst-to-greater-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -159,4 +161,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
