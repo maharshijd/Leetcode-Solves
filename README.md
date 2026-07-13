@@ -167,4 +167,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/maharshijd/Leetcode-Solves/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
