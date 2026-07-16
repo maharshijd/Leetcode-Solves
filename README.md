@@ -145,6 +145,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0009-palindrome-number) |
 | [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
