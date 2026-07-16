@@ -143,6 +143,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Math
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/2769-find-the-maximum-achievable-number) |
@@ -176,6 +177,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Enumeration
 |  |
@@ -198,4 +200,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
