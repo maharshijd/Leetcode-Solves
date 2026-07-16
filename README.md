@@ -119,6 +119,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0941-valid-mountain-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0941-valid-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2942-find-words-containing-character](https://github.com/maharshijd/Leetcode-Solves/tree/master/2942-find-words-containing-character) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -134,6 +135,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
