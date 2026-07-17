@@ -149,6 +149,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0263-ugly-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
 | [2485-find-the-pivot-integer](https://github.com/maharshijd/Leetcode-Solves/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/2769-find-the-maximum-achievable-number) |
