@@ -118,6 +118,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0941-valid-mountain-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0941-valid-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -211,9 +212,14 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
