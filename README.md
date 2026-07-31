@@ -136,6 +136,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -193,6 +194,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/maharshijd/Leetcode-Solves/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/3110-score-of-a-string) |
