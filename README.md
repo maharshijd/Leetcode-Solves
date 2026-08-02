@@ -120,6 +120,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0941-valid-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -168,6 +169,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -184,6 +186,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -193,6 +196,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
 ## String
 |  |
