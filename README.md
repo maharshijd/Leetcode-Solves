@@ -270,4 +270,12 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
