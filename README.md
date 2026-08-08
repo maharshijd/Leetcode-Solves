@@ -137,6 +137,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/maharshijd/Leetcode-Solves/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0344-reverse-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2942-find-words-containing-character](https://github.com/maharshijd/Leetcode-Solves/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/3110-score-of-a-string) |
