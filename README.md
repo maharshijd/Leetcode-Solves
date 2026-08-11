@@ -130,6 +130,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/maharshijd/Leetcode-Solves/tree/master/2942-find-words-containing-character) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/maharshijd/Leetcode-Solves/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -138,6 +139,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1015-smallest-integer-divisible-by-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/maharshijd/Leetcode-Solves/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -157,6 +159,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/maharshijd/Leetcode-Solves/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/maharshijd/Leetcode-Solves/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/maharshijd/Leetcode-Solves/tree/master/3731-find-missing-elements) |
