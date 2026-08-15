@@ -274,6 +274,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/maharshijd/Leetcode-Solves/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -323,4 +324,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maharshijd/Leetcode-Solves/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/maharshijd/Leetcode-Solves/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
