@@ -215,6 +215,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
@@ -234,6 +235,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Enumeration
@@ -328,4 +330,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/maharshijd/Leetcode-Solves/tree/master/0191-number-of-1-bits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
