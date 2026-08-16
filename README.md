@@ -223,6 +223,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0345-reverse-vowels-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2833-furthest-point-from-origin](https://github.com/maharshijd/Leetcode-Solves/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/maharshijd/Leetcode-Solves/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maharshijd/Leetcode-Solves/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -288,6 +289,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Counting Sort
 |  |
 | ------- |
+| [2833-furthest-point-from-origin](https://github.com/maharshijd/Leetcode-Solves/tree/master/2833-furthest-point-from-origin) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
