@@ -136,6 +136,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [2961-double-modular-exponentiation](https://github.com/maharshijd/Leetcode-Solves/tree/master/2961-double-modular-exponentiation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3731-find-missing-elements](https://github.com/maharshijd/Leetcode-Solves/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -146,6 +147,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maharshijd/Leetcode-Solves/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/maharshijd/Leetcode-Solves/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -167,6 +169,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/maharshijd/Leetcode-Solves/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/maharshijd/Leetcode-Solves/tree/master/3731-find-missing-elements) |
@@ -275,6 +278,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [2961-double-modular-exponentiation](https://github.com/maharshijd/Leetcode-Solves/tree/master/2961-double-modular-exponentiation) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -295,6 +299,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 ## Counting Sort
 |  |
 | ------- |
