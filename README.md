@@ -116,6 +116,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/maharshijd/Leetcode-Solves/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
@@ -217,6 +218,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/maharshijd/Leetcode-Solves/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0344-reverse-string) |
@@ -343,4 +345,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/maharshijd/Leetcode-Solves/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
