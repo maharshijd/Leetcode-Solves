@@ -133,6 +133,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1584-min-cost-to-connect-all-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/maharshijd/Leetcode-Solves/tree/master/2942-find-words-containing-character) |
+| [2961-double-modular-exponentiation](https://github.com/maharshijd/Leetcode-Solves/tree/master/2961-double-modular-exponentiation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3731-find-missing-elements](https://github.com/maharshijd/Leetcode-Solves/tree/master/3731-find-missing-elements) |
@@ -193,6 +194,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/maharshijd/Leetcode-Solves/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/2769-find-the-maximum-achievable-number) |
+| [2961-double-modular-exponentiation](https://github.com/maharshijd/Leetcode-Solves/tree/master/2961-double-modular-exponentiation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/maharshijd/Leetcode-Solves/tree/master/3536-maximum-product-of-two-digits) |
@@ -272,6 +274,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
+| [2961-double-modular-exponentiation](https://github.com/maharshijd/Leetcode-Solves/tree/master/2961-double-modular-exponentiation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
