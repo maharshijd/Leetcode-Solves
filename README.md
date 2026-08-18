@@ -119,6 +119,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0014-longest-common-prefix](https://github.com/maharshijd/Leetcode-Solves/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
@@ -142,6 +143,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -162,6 +164,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -305,6 +308,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/maharshijd/Leetcode-Solves/tree/master/2833-furthest-point-from-origin) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -350,6 +354,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/maharshijd/Leetcode-Solves/tree/master/0191-number-of-1-bits) |
 ## Bracket Sequences
 |  |
@@ -363,4 +368,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/maharshijd/Leetcode-Solves/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
