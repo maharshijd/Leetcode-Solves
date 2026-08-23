@@ -129,6 +129,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/maharshijd/Leetcode-Solves/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1441-build-an-array-with-stack-operations](https://github.com/maharshijd/Leetcode-Solves/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1584-min-cost-to-connect-all-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/1584-min-cost-to-connect-all-points) |
@@ -260,6 +261,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/maharshijd/Leetcode-Solves/tree/master/1441-build-an-array-with-stack-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/maharshijd/Leetcode-Solves/tree/master/1441-build-an-array-with-stack-operations) |
 | [2961-double-modular-exponentiation](https://github.com/maharshijd/Leetcode-Solves/tree/master/2961-double-modular-exponentiation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
