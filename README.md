@@ -240,6 +240,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0344-reverse-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
+| [0709-to-lower-case](https://github.com/maharshijd/Leetcode-Solves/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2833-furthest-point-from-origin](https://github.com/maharshijd/Leetcode-Solves/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/maharshijd/Leetcode-Solves/tree/master/2942-find-words-containing-character) |
