@@ -196,6 +196,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0009-palindrome-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
@@ -243,6 +244,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0151-reverse-words-in-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/maharshijd/Leetcode-Solves/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -291,6 +293,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/maharshijd/Leetcode-Solves/tree/master/1441-build-an-array-with-stack-operations) |
 | [2961-double-modular-exponentiation](https://github.com/maharshijd/Leetcode-Solves/tree/master/2961-double-modular-exponentiation) |
