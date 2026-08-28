@@ -105,6 +105,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0099-recover-binary-search-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0538-convert-bst-to-greater-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/maharshijd/Leetcode-Solves/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -122,6 +123,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
@@ -149,6 +151,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -165,6 +168,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0151-reverse-words-in-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/maharshijd/Leetcode-Solves/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -175,6 +179,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0088-merge-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
