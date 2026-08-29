@@ -138,6 +138,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1584-min-cost-to-connect-all-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2043-simple-bank-system](https://github.com/maharshijd/Leetcode-Solves/tree/master/2043-simple-bank-system) |
 | [2942-find-words-containing-character](https://github.com/maharshijd/Leetcode-Solves/tree/master/2942-find-words-containing-character) |
 | [2961-double-modular-exponentiation](https://github.com/maharshijd/Leetcode-Solves/tree/master/2961-double-modular-exponentiation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -156,6 +157,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1015-smallest-integer-divisible-by-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2043-simple-bank-system](https://github.com/maharshijd/Leetcode-Solves/tree/master/2043-simple-bank-system) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maharshijd/Leetcode-Solves/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -304,6 +306,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/maharshijd/Leetcode-Solves/tree/master/1441-build-an-array-with-stack-operations) |
+| [2043-simple-bank-system](https://github.com/maharshijd/Leetcode-Solves/tree/master/2043-simple-bank-system) |
 | [2961-double-modular-exponentiation](https://github.com/maharshijd/Leetcode-Solves/tree/master/2961-double-modular-exponentiation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
@@ -402,4 +405,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [2043-simple-bank-system](https://github.com/maharshijd/Leetcode-Solves/tree/master/2043-simple-bank-system) |
 <!---LeetCode Topics End-->
