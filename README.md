@@ -204,6 +204,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
@@ -287,6 +288,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
 ## Memoization
