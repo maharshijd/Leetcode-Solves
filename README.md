@@ -217,6 +217,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/maharshijd/Leetcode-Solves/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/maharshijd/Leetcode-Solves/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/2769-find-the-maximum-achievable-number) |
@@ -237,6 +238,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/maharshijd/Leetcode-Solves/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Brainteaser
 |  |
 | ------- |
@@ -414,4 +416,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [2043-simple-bank-system](https://github.com/maharshijd/Leetcode-Solves/tree/master/2043-simple-bank-system) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/maharshijd/Leetcode-Solves/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
