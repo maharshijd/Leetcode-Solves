@@ -154,6 +154,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/maharshijd/Leetcode-Solves/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
@@ -325,6 +326,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/maharshijd/Leetcode-Solves/tree/master/0146-lru-cache) |
 | [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
@@ -420,9 +422,14 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/maharshijd/Leetcode-Solves/tree/master/0146-lru-cache) |
 | [2043-simple-bank-system](https://github.com/maharshijd/Leetcode-Solves/tree/master/2043-simple-bank-system) |
 ## Combinatorics
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/maharshijd/Leetcode-Solves/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/maharshijd/Leetcode-Solves/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
