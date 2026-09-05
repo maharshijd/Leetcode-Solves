@@ -151,6 +151,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -281,6 +282,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
