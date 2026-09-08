@@ -127,6 +127,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/maharshijd/Leetcode-Solves/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
@@ -190,6 +191,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/maharshijd/Leetcode-Solves/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -244,6 +246,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/maharshijd/Leetcode-Solves/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
@@ -361,6 +364,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/maharshijd/Leetcode-Solves/tree/master/0435-non-overlapping-intervals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Minimax
