@@ -133,6 +133,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0941-valid-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
@@ -197,6 +198,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maharshijd/Leetcode-Solves/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/maharshijd/Leetcode-Solves/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/maharshijd/Leetcode-Solves/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -253,6 +255,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0435-non-overlapping-intervals](https://github.com/maharshijd/Leetcode-Solves/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/maharshijd/Leetcode-Solves/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -371,6 +374,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/maharshijd/Leetcode-Solves/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maharshijd/Leetcode-Solves/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/maharshijd/Leetcode-Solves/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -449,4 +453,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/maharshijd/Leetcode-Solves/tree/master/0146-lru-cache) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
