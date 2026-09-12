@@ -125,6 +125,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0088-merge-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/maharshijd/Leetcode-Solves/tree/master/0435-non-overlapping-intervals) |
@@ -226,6 +227,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0060-permutation-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
@@ -312,6 +314,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/maharshijd/Leetcode-Solves/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/3483-unique-3-digit-even-numbers) |
@@ -329,6 +332,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maharshijd/Leetcode-Solves/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -463,4 +467,16 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
