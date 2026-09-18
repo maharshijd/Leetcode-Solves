@@ -219,6 +219,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0176-second-highest-salary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0176-second-highest-salary) |
 | [0610-triangle-judgement](https://github.com/maharshijd/Leetcode-Solves/tree/master/0610-triangle-judgement) |
 | [1517-find-users-with-valid-e-mails](https://github.com/maharshijd/Leetcode-Solves/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/maharshijd/Leetcode-Solves/tree/master/1527-patients-with-a-condition) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/maharshijd/Leetcode-Solves/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/maharshijd/Leetcode-Solves/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/maharshijd/Leetcode-Solves/tree/master/1978-employees-whose-manager-left-the-company) |
