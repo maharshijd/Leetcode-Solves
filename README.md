@@ -298,6 +298,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maharshijd/Leetcode-Solves/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -353,6 +354,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3360-stone-removal-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maharshijd/Leetcode-Solves/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
