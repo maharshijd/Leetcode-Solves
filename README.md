@@ -218,6 +218,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0176-second-highest-salary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0176-second-highest-salary) |
 | [0610-triangle-judgement](https://github.com/maharshijd/Leetcode-Solves/tree/master/0610-triangle-judgement) |
+| [1484-group-sold-products-by-the-date](https://github.com/maharshijd/Leetcode-Solves/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/maharshijd/Leetcode-Solves/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/maharshijd/Leetcode-Solves/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/maharshijd/Leetcode-Solves/tree/master/1667-fix-names-in-a-table) |
