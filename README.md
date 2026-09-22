@@ -101,6 +101,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0129-sum-root-to-leaf-numbers](https://github.com/maharshijd/Leetcode-Solves/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0538-convert-bst-to-greater-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -378,6 +379,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
+| [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/maharshijd/Leetcode-Solves/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
@@ -411,6 +413,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -491,4 +494,16 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/maharshijd/Leetcode-Solves/tree/master/0836-rectangle-overlap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
