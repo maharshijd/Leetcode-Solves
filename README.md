@@ -102,6 +102,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0538-convert-bst-to-greater-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0538-convert-bst-to-greater-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -269,6 +270,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0486-predict-the-winner](https://github.com/maharshijd/Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/maharshijd/Leetcode-Solves/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/maharshijd/Leetcode-Solves/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -380,6 +382,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0215-kth-largest-element-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/maharshijd/Leetcode-Solves/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/maharshijd/Leetcode-Solves/tree/master/3080-mark-elements-on-array-by-performing-queries) |
@@ -414,6 +417,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -498,10 +502,12 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
