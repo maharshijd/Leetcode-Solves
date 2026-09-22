@@ -418,6 +418,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/maharshijd/Leetcode-Solves/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1584-min-cost-to-connect-all-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -503,6 +504,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/maharshijd/Leetcode-Solves/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Shortest Path
 |  |
 | ------- |
