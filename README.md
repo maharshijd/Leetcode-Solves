@@ -147,6 +147,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maharshijd/Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1584-min-cost-to-connect-all-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/1584-min-cost-to-connect-all-points) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2043-simple-bank-system](https://github.com/maharshijd/Leetcode-Solves/tree/master/2043-simple-bank-system) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -173,6 +174,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2043-simple-bank-system](https://github.com/maharshijd/Leetcode-Solves/tree/master/2043-simple-bank-system) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maharshijd/Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -299,6 +301,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/maharshijd/Leetcode-Solves/tree/master/0709-to-lower-case) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2833-furthest-point-from-origin](https://github.com/maharshijd/Leetcode-Solves/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/maharshijd/Leetcode-Solves/tree/master/2942-find-words-containing-character) |
