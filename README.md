@@ -171,6 +171,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0146-lru-cache](https://github.com/maharshijd/Leetcode-Solves/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/maharshijd/Leetcode-Solves/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -202,6 +203,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/maharshijd/Leetcode-Solves/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/maharshijd/Leetcode-Solves/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maharshijd/Leetcode-Solves/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/maharshijd/Leetcode-Solves/tree/master/0506-relative-ranks) |
@@ -298,6 +300,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0151-reverse-words-in-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/maharshijd/Leetcode-Solves/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/maharshijd/Leetcode-Solves/tree/master/0709-to-lower-case) |
@@ -382,6 +385,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/maharshijd/Leetcode-Solves/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/maharshijd/Leetcode-Solves/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
