@@ -304,6 +304,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/maharshijd/Leetcode-Solves/tree/master/0709-to-lower-case) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2833-furthest-point-from-origin](https://github.com/maharshijd/Leetcode-Solves/tree/master/2833-furthest-point-from-origin) |
@@ -330,6 +331,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/maharshijd/Leetcode-Solves/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
 | ------- |
@@ -461,6 +463,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
