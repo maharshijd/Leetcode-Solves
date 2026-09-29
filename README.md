@@ -139,6 +139,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0941-valid-mountain-array) |
+| [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/maharshijd/Leetcode-Solves/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -278,6 +279,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
+| [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
 | [1025-divisor-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/1025-divisor-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/maharshijd/Leetcode-Solves/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/maharshijd/Leetcode-Solves/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -304,6 +306,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/maharshijd/Leetcode-Solves/tree/master/0709-to-lower-case) |
+| [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maharshijd/Leetcode-Solves/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -388,6 +391,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0067-add-binary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/maharshijd/Leetcode-Solves/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/maharshijd/Leetcode-Solves/tree/master/0389-find-the-difference) |
+| [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -538,4 +542,12 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/maharshijd/Leetcode-Solves/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bitmask
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->
