@@ -110,6 +110,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0099-recover-binary-search-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/maharshijd/Leetcode-Solves/tree/master/0374-guess-number-higher-or-lower) |
 | [0538-convert-bst-to-greater-tree](https://github.com/maharshijd/Leetcode-Solves/tree/master/0538-convert-bst-to-greater-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/maharshijd/Leetcode-Solves/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -555,4 +556,8 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/maharshijd/Leetcode-Solves/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
