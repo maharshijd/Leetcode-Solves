@@ -234,6 +234,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [1667-fix-names-in-a-table](https://github.com/maharshijd/Leetcode-Solves/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/maharshijd/Leetcode-Solves/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/maharshijd/Leetcode-Solves/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/maharshijd/Leetcode-Solves/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/maharshijd/Leetcode-Solves/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Math
 |  |
