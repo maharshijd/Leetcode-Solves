@@ -312,6 +312,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0415-add-strings](https://github.com/maharshijd/Leetcode-Solves/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/maharshijd/Leetcode-Solves/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/maharshijd/Leetcode-Solves/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maharshijd/Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -339,6 +340,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0445-add-two-numbers-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/maharshijd/Leetcode-Solves/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/maharshijd/Leetcode-Solves/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
@@ -421,6 +423,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0435-non-overlapping-intervals](https://github.com/maharshijd/Leetcode-Solves/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/maharshijd/Leetcode-Solves/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/maharshijd/Leetcode-Solves/tree/master/0646-maximum-length-of-pair-chain) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/maharshijd/Leetcode-Solves/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/maharshijd/Leetcode-Solves/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maharshijd/Leetcode-Solves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -475,6 +478,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/maharshijd/Leetcode-Solves/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maharshijd/Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
