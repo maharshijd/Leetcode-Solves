@@ -226,6 +226,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/maharshijd/Leetcode-Solves/tree/master/0176-second-highest-salary) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/maharshijd/Leetcode-Solves/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/maharshijd/Leetcode-Solves/tree/master/0610-triangle-judgement) |
 | [1164-product-price-at-a-given-date](https://github.com/maharshijd/Leetcode-Solves/tree/master/1164-product-price-at-a-given-date) |
 | [1321-restaurant-growth](https://github.com/maharshijd/Leetcode-Solves/tree/master/1321-restaurant-growth) |
