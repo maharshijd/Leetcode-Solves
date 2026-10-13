@@ -103,6 +103,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/maharshijd/Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/maharshijd/Leetcode-Solves/tree/master/0886-possible-bipartition) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -441,6 +442,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Union-Find
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/maharshijd/Leetcode-Solves/tree/master/0886-possible-bipartition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
@@ -448,6 +450,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0886-possible-bipartition](https://github.com/maharshijd/Leetcode-Solves/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/maharshijd/Leetcode-Solves/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/maharshijd/Leetcode-Solves/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/maharshijd/Leetcode-Solves/tree/master/1584-min-cost-to-connect-all-points) |
@@ -538,6 +541,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0743-network-delay-time](https://github.com/maharshijd/Leetcode-Solves/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/maharshijd/Leetcode-Solves/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0886-possible-bipartition](https://github.com/maharshijd/Leetcode-Solves/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/maharshijd/Leetcode-Solves/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Shortest Path
 |  |
@@ -581,4 +585,12 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0051-n-queens](https://github.com/maharshijd/Leetcode-Solves/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0052-n-queens-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/maharshijd/Leetcode-Solves/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/maharshijd/Leetcode-Solves/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
