@@ -125,6 +125,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/maharshijd/Leetcode-Solves/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/maharshijd/Leetcode-Solves/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/maharshijd/Leetcode-Solves/tree/master/0169-majority-element) |
@@ -570,4 +571,12 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/maharshijd/Leetcode-Solves/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/maharshijd/Leetcode-Solves/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/maharshijd/Leetcode-Solves/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
