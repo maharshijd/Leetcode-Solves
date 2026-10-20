@@ -143,6 +143,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0877-stone-game](https://github.com/maharshijd/Leetcode-Solves/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/maharshijd/Leetcode-Solves/tree/master/0941-valid-mountain-array) |
 | [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maharshijd/Leetcode-Solves/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/maharshijd/Leetcode-Solves/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -395,6 +396,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 ## Matrix
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/maharshijd/Leetcode-Solves/tree/master/1260-shift-2d-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/maharshijd/Leetcode-Solves/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Bit Manipulation
@@ -405,6 +407,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | [0389-find-the-difference](https://github.com/maharshijd/Leetcode-Solves/tree/master/0389-find-the-difference) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/maharshijd/Leetcode-Solves/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0980-unique-paths-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -571,6 +574,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/maharshijd/Leetcode-Solves/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0980-unique-paths-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -580,6 +584,7 @@ Would you like me to elevate this further with **GitHub badges** (for LeetCode, 
 | ------- |
 | [0051-n-queens](https://github.com/maharshijd/Leetcode-Solves/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0052-n-queens-ii) |
+| [0980-unique-paths-iii](https://github.com/maharshijd/Leetcode-Solves/tree/master/0980-unique-paths-iii) |
 ## Algorithm X
 |  |
 | ------- |
